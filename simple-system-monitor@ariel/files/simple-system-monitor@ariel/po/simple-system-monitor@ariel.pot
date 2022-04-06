@@ -29,27 +29,27 @@ msgstr ""
 
 #: applet.js:213
 msgid "CPU:"
-msgstr "CPU"
+msgstr ""
 
 #: applet.js:214
 msgid "Memory:"
-msgstr "Muisti"
+msgstr ""
 
 #: applet.js:215
 msgid "Download:"
-msgstr "Lataus"
+msgstr ""
 
 #: applet.js:216
 msgid "Upload:"
-msgstr "Lähetys"
+msgstr ""
 
 #: applet.js:217
 msgid "Temperature:"
-msgstr "Lämpötila"
+msgstr ""
 
 #. simple-system-monitor@ariel->metadata.json->description
 msgid "Shows some system status values"
-msgstr "Näyttää järjestelmän tietoja"
+msgstr ""
 
 #. simple-system-monitor@ariel->metadata.json->name
 msgid "Simple system monitor"
